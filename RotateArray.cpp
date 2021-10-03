@@ -33,6 +33,6 @@ int main()
 	    rotateArry(a,n,d);
 	    cout<<"\n";
 	}
-	
+	print("Chef on island arrived.\n");
 	return 0;
 }
