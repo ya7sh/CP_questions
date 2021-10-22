@@ -27,7 +27,7 @@ cout << endl;
 /* Driver function to test above functions */
 int main()
 {
-	int arr[] = {1, 2, 3, 4, 5, 6};
+	int arr[] = {2, 3, 4, 5, 6,7};
 	
 	int n = sizeof(arr) / sizeof(arr[0]);
 
