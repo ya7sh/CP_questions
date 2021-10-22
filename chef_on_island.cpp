@@ -18,7 +18,8 @@ int main() {
 	    if(m>=D)
 	    cout <<"YES \n";
 	    else
-	    cout <<"NO\n";
+	    cout <<"naah\n";
+
 	    
 	}
 	return 0;
